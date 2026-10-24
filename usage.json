@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/memorix-skill-adaptive",
+  "packageVersion": "0.2.1",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/memorix-skill-adaptive",
+  "usageRepository": "https://github.com/x12i-sdk/memorix-skill-adaptive",
+  "sourceRepository": "https://github.com/x12i/memorix-skills",
+  "sourceCommit": "7cbf8b24f4de87d0a0a1b6ee738756a804856de2",
+  "sourcePackageDirectory": "packages/skill-adaptive",
+  "example": {
+    "title": "Evaluate a quality gate over synthetic execution envelopes",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T15:08:34.651419+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "1e0b1303805449f7e7b4f836859628e0210bec069718b679a97b22e23035c82c",
+    "manifestSha256": "b0916446fbad114f862a4606aba996e73575b06e08e54e982cd8192080a27635"
+  },
+  "validationFiles": {
+    "src/index.mjs": "1e0b1303805449f7e7b4f836859628e0210bec069718b679a97b22e23035c82c"
+  }
+}
